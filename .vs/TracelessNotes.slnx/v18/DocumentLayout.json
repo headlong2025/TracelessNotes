@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpProjects\\TracelessNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF9B1E2-A279-4417-AA3E-608E933B435A}|TracelessNotes.csproj|d:\\csharpprojects\\tracelessnotes\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF9B1E2-A279-4417-AA3E-608E933B435A}|TracelessNotes.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF9B1E2-A279-4417-AA3E-608E933B435A}|TracelessNotes.csproj|d:\\csharpprojects\\tracelessnotes\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BF9B1E2-A279-4417-AA3E-608E933B435A}|TracelessNotes.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF9B1E2-A279-4417-AA3E-608E933B435A}|TracelessNotes.csproj|d:\\csharpprojects\\tracelessnotes\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF9B1E2-A279-4417-AA3E-608E933B435A}|TracelessNotes.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF9B1E2-A279-4417-AA3E-608E933B435A}|TracelessNotes.csproj|d:\\csharpprojects\\tracelessnotes\\tracelessnotes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8BF9B1E2-A279-4417-AA3E-608E933B435A}|TracelessNotes.csproj|solutionrelative:tracelessnotes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\CSharpProjects\\TracelessNotes\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\CSharpProjects\\TracelessNotes\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T03:00:12.858Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TracelessNotes",
+              "DocumentMoniker": "D:\\CSharpProjects\\TracelessNotes\\TracelessNotes.csproj",
+              "RelativeDocumentMoniker": "TracelessNotes.csproj",
+              "ToolTip": "D:\\CSharpProjects\\TracelessNotes\\TracelessNotes.csproj",
+              "RelativeToolTip": "TracelessNotes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T08:48:57.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\CSharpProjects\\TracelessNotes\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\CSharpProjects\\TracelessNotes\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAACsBAAAAAAAAAAAQwDMBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T03:11:02.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\CSharpProjects\\TracelessNotes\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\CSharpProjects\\TracelessNotes\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T03:06:46.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

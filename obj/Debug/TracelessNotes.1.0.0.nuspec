@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TracelessNotes</id>
+    <version>1.0.0</version>
+    <authors>TracelessNotes</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Microsoft.Data.Sqlite" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\CSharpProjects\TracelessNotes\bin\Debug\net8.0-windows\TracelessNotes.runtimeconfig.json" target="lib\net8.0-windows7.0\TracelessNotes.runtimeconfig.json" />
+    <file src="D:\CSharpProjects\TracelessNotes\bin\Debug\net8.0-windows\TracelessNotes.dll" target="lib\net8.0-windows7.0\TracelessNotes.dll" />
+  </files>
+</package>
